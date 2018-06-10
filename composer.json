@@ -12,7 +12,7 @@
     "require": {
         "php": ">=5.4",
         "guzzle/guzzle": "3.*",
-        "league/oauth2-client": "~0.6",
+        "league/oauth2-client": "~2.3",
         "zendframework/zend-filter": "2.*",
         "zendframework/zend-eventmanager": "2.*",
         "zendframework/zend-servicemanager": "2.*",
